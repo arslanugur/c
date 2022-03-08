@@ -30,7 +30,31 @@ int main() {
 // puts() writes string to a file f 
 // eof() finds end of file more at https://www.hackerearth.com/practice/notes/why-a-header-file-such-as-includestdioh-is-used/
 
-https://www.sololearn.com/learning/1089/2911/6293/1
+<stdio.h> abbreviation for Standard Input/Output Header 
 
-s0101earn
-<stdio.h> abbreviation for Standard Input/Output Header std>>Stan
+https://en.m.wikipedia.org/wiki/C_(programming_language)
+
+https://en.wikipedia.org/wiki/C_standard_library
+
+
+//Example:
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World! \n");
+    printf("Hello World? \n");
+    printf("");
+    printf("\n");
+    printf("String One \n");
+    printf("String Two \n");
+    printf("String Three ");
+    printf("String Four ");
+    printf("String Five \n");
+    printf("String Six \n");
+    
+    return 0;
+}
+
+https://www.sololearn.com/learning/1089/2911/6309/1
+
+
